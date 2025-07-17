@@ -18,7 +18,7 @@ The Robots (UGVs and UAVs) employed in our research activities are listed below 
 
 | Robot Name | Image |
 |------------|-------|
-| Devastator | <img src="media/devastator.png" width="150"> |
+| Devastator | <img src="../media/devastator.png" width="150"> |
 | Lynx | <img src="robots/lynx.jpg" width="150"> |
 | Turtlebot4 | <img src="robots/turtlebot4.jpg" width="150"> |
 
