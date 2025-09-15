@@ -27,3 +27,10 @@ The Robots (UGVs and UAVs) employed in our research activities are listed below 
 | Robot Name | Image |
 |------------|-------|
 | Mavtech RX2 | <img src="robots/mavtech_rx2.jpg" width="150"> |
+
+## Best Practice Guide
+
+To ensure consistency across all repositories in the STREAM Robotics Lab organization, please follow these naming conventions when creating new projects:
+
+- **General rule**: use a clear and standardized prefix related to the main platform or project family.  
+  **Example:** for TurtleBot4 tutorials the repository name must be: turtlebot4_tutorials_<name>
